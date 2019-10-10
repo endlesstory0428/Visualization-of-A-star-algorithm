@@ -13,4 +13,4 @@ a tiny toy based on pyQt5
 ## Thanks to
 Deep Pandya
 
-Dhruvin Patel
+Dhruvin Patel @dhruvinpatel105
